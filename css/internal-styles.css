@@ -241,3 +241,30 @@ border-color:rgba(227,18,1,1);
 	border: 1px solid rgba(125,148,249,1);
 	background-color:;
 }
+/* Responsive Google Maps embed (HTML + CSS only, no Maps JS API) */
+.tudinous-google-map-wrap {
+	position: relative;
+	width: 100%;
+	max-width: 1000px;
+	margin: 0 auto;
+}
+.tudinous-google-map-embed {
+	position: relative;
+	width: 100%;
+	height: 0;
+	padding-bottom: 75%; /* 4:3 aspect ratio */
+	overflow: hidden;
+}
+.tudinous-google-map-embed iframe {
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+	border: 0;
+}
+.tudinous-google-map-caption {
+	margin: 12px 0 0;
+	text-align: center;
+	font-size: 14px;
+}
