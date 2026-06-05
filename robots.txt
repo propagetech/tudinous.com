@@ -1,5 +1,4 @@
-<html>
- <body>
-  User-agent: * Sitemap: http://www.tudinous.com
- </body>
-</html>
+User-agent: *
+Allow: /
+
+Sitemap: https://www.tudinous.com/sitemap.xml
