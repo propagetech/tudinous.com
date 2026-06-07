@@ -15,6 +15,7 @@
 | `06-seo-schema.md` | SEO, metadata, and schema.org / JSON-LD plan |
 | `07-image-asset-map.md` | Old → new image rename map and where each is used |
 | `08-build-notes.md` | Technical build notes, file structure, how to preview/deploy |
+| `09-client-feedback-log.md` | Client feedback & communication log — what was requested and incorporated |
 
 ---
 
