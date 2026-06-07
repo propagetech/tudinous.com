@@ -33,6 +33,7 @@ keeps working.
 | `partner-cryo-comp.webp` | `imgs/cryo-camp.webp` | Cryo Comp | http://www.cryocomp.com/ |
 | `partner-addcool.webp` | `imgs/addcool-trade-and-service.webp` | Addcool Trade & Services | http://addcool.in/wp/ |
 | `partner-demaco.webp` | `imgs/demaco.webp` | Demaco Holland BV | https://www.demaco.nl/ |
+| `partner-global-sensor-technology.png` | client-supplied (`GST-Wuhan-China-logo.png`) | Global Sensor Technology (GSTiR), Wuhan 430205, P.R. China — miniature Stirling cryocoolers | (website URL to be confirmed) |
 
 ## Not carried over
 
